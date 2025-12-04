@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EAGLEVIEW_EXPORT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <REPORT claimId="" reportId="55585005" />
+  <VERSION coplanarity="" dormers="" precision="0" precisionUnits="" sourceVersion="1028" targetVersion="0" triangulation="" />
+  <LOCATION address="5006 Killen Ct" city="Monrovia" lat="39.3706173" long="-77.2404270" postal="21770" state="MD" />
+  <STRUCTURES northorientation="320.5">
+    <ROOF id="ROOF1">
+      <FACES>
+        <FACE designator="G" id="F16" material="1" type="WALL" children="F96">
+          <POLYGON id="P16" orientation="39.5" path="L68,L67,L66,L65,L64" points_path="C60,C64,C63,C62,C61,C60" pitch="∞" size="14" unroundedsize="13.901990873" sizelesspenetrations="14" unroundedsizelesspenetrations="13.901990873" />
+        </FACE>
+        <FACE designator="D" id="F17" material="1" type="WALL" children="F97">
+          <POLYGON id="P17" orientation="129.5" path="L71,L70,L67,L69" points_path="C65,C66,C63,C64,C65" pitch="∞" size="10" unroundedsize="10.010829835" sizelesspenetrations="10" unroundedsizelesspenetrations="10.010829835" />
+        </FACE>
+        <FACE designator="F" id="F18" material="1" type="WALL" children="F98">
+          <POLYGON id="P18" orientation="219.5" path="L75,L74,L71,L73,L72" points_path="C67,C69,C66,C65,C68,C67" pitch="∞" size="14" unroundedsize="13.901990873" sizelesspenetrations="14" unroundedsizelesspenetrations="13.901990873" />
+        </FACE>
+        <FACE designator="B" id="F19" material="1" type="WALL" children="F99">
+          <POLYGON id="P19" orientation="309.5" path="L65,L77,L75,L76" points_path="C61,C62,C69,C67,C61" pitch="∞" size="6" unroundedsize="5.951392615" sizelesspenetrations="6" unroundedsizelesspenetrations="5.951392615" />
+        </FACE>
+        <FACE designator="Y" id="F20" material="1" type="WALL" children="F73,F100">
+          <POLYGON id="P20" orientation="39.5" path="L109,L108,L107,L106,L105,L104,L97" points_path="C92,C101,C100,C99,C176,C98,C173,C92" pitch="∞" size="215" unroundedsize="215.266507572" sizelesspenetrations="200" unroundedsizelesspenetrations="200.266507572" />
+        </FACE>
+        <FACE designator="R" id="F21" material="1" type="WALL" children="F72,F101">
+          <POLYGON id="P21" orientation="129.5" path="L112,L106,L111,L110" points_path="C177,C176,C99,C102,C177" pitch="∞" size="75" unroundedsize="74.986714272" sizelesspenetrations="65" unroundedsizelesspenetrations="64.986714272" />
+        </FACE>
+        <FACE designator="H" id="F22" material="1" type="WALL" children="F102">
+          <POLYGON id="P22" orientation="39.5" path="L115,L110,L114,L113,L171,L170" points_path="C103,C177,C102,C104,C205,C204,C103" pitch="∞" size="19" unroundedsize="19.235760443" sizelesspenetrations="19" unroundedsizelesspenetrations="19.235760443" />
+        </FACE>
+        <FACE designator="J" id="F23" material="1" type="WALL" children="F79,F103">
+          <POLYGON id="P23" orientation="353.9" path="L80,L124,L123,L122" points_path="C180,C73,C149,C200,C180" pitch="∞" size="24" unroundedsize="24.087212408" sizelesspenetrations="14" unroundedsizelesspenetrations="14.087212408" />
+        </FACE>
+        <FACE designator="K" id="F24" material="1" type="WALL" children="F80,F104">
+          <POLYGON id="P24" orientation="83.6" path="L127,L126,L81,L125" points_path="C201,C150,C74,C183,C201" pitch="∞" size="25" unroundedsize="24.731596186" sizelesspenetrations="15" unroundedsizelesspenetrations="14.731596186" />
+        </FACE>
+        <FACE designator="E" id="F25" material="1" type="WALL" children="F105">
+          <POLYGON id="P25" orientation="309.5" path="L131,L130,L95,L129" points_path="C216,C153,C90,C91,C216" pitch="∞" size="13" unroundedsize="13.467739507" sizelesspenetrations="13" unroundedsizelesspenetrations="13.467739507" />
+        </FACE>
+        <FACE designator="V" id="F26" material="1" type="WALL" children="F91,F106">
+          <POLYGON id="P26" orientation="219.5" path="L99,L134,L133,L132" points_path="C93,C94,C161,C186,C93" pitch="∞" size="94" unroundedsize="94.375304468" sizelesspenetrations="35" unroundedsizelesspenetrations="34.815579607" />
+        </FACE>
+        <FACE designator="U" id="F27" material="1" type="WALL" children="F92,F107">
+          <POLYGON id="P27" orientation="309.5" path="L133,L136,L119,L135" points_path="C186,C161,C160,C187,C186" pitch="∞" size="91" unroundedsize="91.236468389" sizelesspenetrations="23" unroundedsizelesspenetrations="22.584471386" />
+        </FACE>
+        <FACE designator="Q" id="F28" material="1" type="WALL" children="F70,F108">
+          <POLYGON id="P28" orientation="129.5" path="L128,L141,L140,L139" points_path="C194,C155,C154,C212,C194" pitch="∞" size="74" unroundedsize="73.529220609" sizelesspenetrations="35" unroundedsizelesspenetrations="34.579771516" />
+        </FACE>
+        <FACE designator="T" id="F29" material="1" type="WALL" children="F69,F109">
+          <POLYGON id="P29" orientation="219.5" path="L140,L144,L131,L143,L142" points_path="C212,C154,C153,C216,C215,C212" pitch="∞" size="79" unroundedsize="78.604809039" sizelesspenetrations="33" unroundedsizelesspenetrations="33.104809039" />
+        </FACE>
+        <FACE designator="AD" id="F30" material="1" type="WALL" children="F68,F110,F111">
+          <POLYGON id="P30" orientation="219.5" path="L95,L94,L83,L93,L92,L91,L90,L89,L145,L138,L137,L146" points_path="C91,C90,C77,C78,C89,C88,C87,C172,C86,C191,C190,C112,C91" pitch="∞" size="551" unroundedsize="550.511362136" sizelesspenetrations="534" unroundedsizelesspenetrations="534.261362136" />
+        </FACE>
+        <FACE designator="I" id="F31" material="1" type="WALL" children="F112">
+          <POLYGON id="P31" orientation="39.5" path="L128,L167,L147,L148" points_path="C155,C194,C111,C76,C155" pitch="∞" size="20" unroundedsize="20.323842852" sizelesspenetrations="20" unroundedsizelesspenetrations="20.323842852" />
+        </FACE>
+        <FACE designator="AA" id="F32" material="1" type="WALL" children="F77,F113,F114">
+          <POLYGON id="P32" orientation="39.5" path="L199,L198,L154,L157,L80,L156,L116,L158,L81,L154,L78,L153,L155,L79" points_path="C71,C128,C70,C74,C73,C180,C106,C105,C183,C74,C70,C168,C107,C72,C71" pitch="∞" size="375" unroundedsize="375.452670665" sizelesspenetrations="360" unroundedsizelesspenetrations="360.452670665" />
+        </FACE>
+        <FACE designator="A" id="F33" material="1" type="WALL" children="F115">
+          <POLYGON id="P33" orientation="219.5" path="L161,L162,L160" points_path="C113,C115,C114,C113" pitch="∞" size="1" unroundedsize="1.036163942" sizelesspenetrations="1" unroundedsizelesspenetrations="1.036163942" />
+        </FACE>
+        <FACE designator="W" id="F34" material="1" type="WALL" children="F90,F116">
+          <POLYGON id="P34" orientation="39.5" path="L163,L119,L118,L102,L117" points_path="C108,C187,C160,C159,C95,C108" pitch="∞" size="145" unroundedsize="145.012228610" sizelesspenetrations="65" unroundedsizelesspenetrations="64.512228610" />
+        </FACE>
+        <FACE designator="C" id="F35" material="1" type="WALL" children="F117">
+          <POLYGON id="P35" orientation="219.5" path="L164,L103,L121,L120" points_path="C109,C96,C97,C110,C109" pitch="∞" size="9" unroundedsize="8.762755413" sizelesspenetrations="9" unroundedsizelesspenetrations="8.762755413" />
+        </FACE>
+        <FACE designator="O" id="F36" material="1" type="WALL" children="F78,F118">
+          <POLYGON id="P36" orientation="39.5" path="L165,L123,L166,L127" points_path="C201,C200,C149,C150,C201" pitch="∞" size="38" unroundedsize="38.397471150" sizelesspenetrations="21" unroundedsizelesspenetrations="20.897471150" />
+        </FACE>
+        <FACE designator="AB" id="F37" material="1" type="WALL" children="F81,F82,F83,F84,F134,F135">
+          <POLYGON id="P37" orientation="309.5" path="L175,L79,L176,L102,L177,L178,L172" points_path="C117,C71,C72,C95,C159,C158,C118,C117" pitch="∞" size="511" unroundedsize="510.630489453" sizelesspenetrations="368" unroundedsizelesspenetrations="367.781392628" />
+        </FACE>
+        <FACE designator="N" id="F38" material="1" type="WALL" children="F119,F120">
+          <POLYGON id="P38" orientation="39.5" path="L178,L101,L179,L173" points_path="C118,C158,C94,C119,C118" pitch="∞" size="35" unroundedsize="35.454221693" sizelesspenetrations="35" unroundedsizelesspenetrations="35.454221693" />
+        </FACE>
+        <FACE designator="P" id="F39" material="1" type="WALL" children="F86,F121,F122">
+          <POLYGON id="P39" orientation="219.5" path="L182,L180,L181,L183" points_path="C120,C138,C139,C121,C120" pitch="∞" size="73" unroundedsize="72.740652016" sizelesspenetrations="56" unroundedsizelesspenetrations="56.240652016" />
+        </FACE>
+        <FACE designator="AC" id="F40" material="1" type="WALL" children="F85,F87,F88,F93,F123,F124">
+          <POLYGON id="P40" orientation="309.5" path="L182,L174,L179,L99,L98,L97,L96,L90,L100" points_path="C138,C120,C119,C94,C93,C92,C173,C172,C87,C138" pitch="∞" size="511" unroundedsize="510.980358533" sizelesspenetrations="443" unroundedsizelesspenetrations="443.480358533" />
+        </FACE>
+        <FACE designator="X" id="F41" material="1" type="WALL" children="F89,F125,F126">
+          <POLYGON id="P41" orientation="309.5" path="L181,L184,L92,L185" points_path="C121,C139,C88,C89,C121" pitch="∞" size="174" unroundedsize="174.032706853" sizelesspenetrations="132" unroundedsizelesspenetrations="132.032706852" />
+        </FACE>
+        <FACE designator="L" id="F42" material="1" type="WALL" children="F127">
+          <POLYGON id="P42" orientation="39.5" path="L189,L88,L190,L186" points_path="C122,C81,C84,C123,C122" pitch="∞" size="29" unroundedsize="28.885896329" sizelesspenetrations="29" unroundedsizelesspenetrations="28.885896329" />
+        </FACE>
+        <FACE designator="M" id="F43" material="1" type="WALL" children="F128">
+          <POLYGON id="P43" orientation="39.5" path="L188,L192,L191,L193" points_path="C124,C125,C80,C85,C124" pitch="∞" size="29" unroundedsize="28.887802586" sizelesspenetrations="29" unroundedsizelesspenetrations="28.887802586" />
+        </FACE>
+        <FACE designator="S" id="F44" material="1" type="WALL" children="F94,F95,F129">
+          <POLYGON id="P44" orientation="129.5" path="L193,L194,L190,L187" points_path="C124,C85,C84,C123,C124" pitch="∞" size="77" unroundedsize="76.562336790" sizelesspenetrations="39" unroundedsizelesspenetrations="39.062336790" />
+        </FACE>
+        <FACE designator="Z" id="F45" material="1" type="WALL" children="F71,F130,F131">
+          <POLYGON id="P45" orientation="129.5" path="L192,L200,L84,L83,L82,L147,L169,L168,L137,L150,L149,L113,L152,L160,L159" points_path="C80,C125,C79,C78,C77,C76,C111,C116,C112,C190,C75,C205,C104,C113,C114,C80" pitch="∞" size="260" unroundedsize="259.788638867" sizelesspenetrations="232" unroundedsizelesspenetrations="232.288638867" />
+        </FACE>
+        <FACE designator="AE" id="F46" material="1" type="WALL" children="F74,F75,F76,F132,F133">
+          <POLYGON id="P46" orientation="129.5" path="L202,L189,L201,L151,L87,L86,L85,L78,L197,L196,L195" points_path="C82,C122,C81,C197,C196,C83,C169,C168,C70,C127,C126,C82" pitch="∞" size="587" unroundedsize="586.505530500" sizelesspenetrations="498" unroundedsizelesspenetrations="497.993564561" />
+        </FACE>
+        <FACE designator="AD1" id="F68" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P68" orientation="219.5" path="L277,L279,L280,L278" points_path="C219,C220,C221,C222,C219" pitch="∞" size="16" unroundedsize="16.250000000" perimeter="18" unroundedperimeter="18" dimension="3 x 7" unroundeddimension="2.5 x 6.5" />
+        </FACE>
+        <FACE designator="T1" id="F69" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P69" orientation="219.5" path="L282,L284,L283,L281" points_path="C223,C226,C225,C224,C223" pitch="∞" size="46" unroundedsize="45.500000000" perimeter="27" unroundedperimeter="27" dimension="7 x 7" unroundeddimension="7 x 6.5" />
+        </FACE>
+        <FACE designator="Q1" id="F70" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P70" orientation="129.5" path="L285,L287,L288,L286" points_path="C227,C228,C229,C230,C227" pitch="∞" size="39" unroundedsize="38.949449093" perimeter="25" unroundedperimeter="24.984445875" dimension="6 x 7" unroundeddimension="5.992222937 x 6.5" />
+        </FACE>
+        <FACE designator="Z1" id="F71" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P71" orientation="129.5" path="L290,L292,L291,L289" points_path="C231,C234,C233,C232,C231" pitch="∞" size="28" unroundedsize="27.500000000" perimeter="21" unroundedperimeter="21" dimension="5 x 5" unroundeddimension="5.5 x 5" />
+        </FACE>
+        <FACE designator="R1" id="F72" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P72" orientation="129.5" path="L294,L296,L295,L293" points_path="C235,C238,C237,C236,C235" pitch="∞" size="10" unroundedsize="10.000000000" perimeter="13" unroundedperimeter="13" dimension="3 x 4" unroundeddimension="2.5 x 4" />
+        </FACE>
+        <FACE designator="Y1" id="F73" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P73" orientation="39.5" path="L297,L299,L300,L298" points_path="C239,C240,C241,C242,C239" pitch="∞" size="15" unroundedsize="15.000000000" perimeter="16" unroundedperimeter="16" dimension="3 x 5" unroundeddimension="3 x 5" />
+        </FACE>
+        <FACE designator="AE1" id="F74" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P74" orientation="129.5" path="L302,L304,L303,L301" points_path="C243,C246,C245,C244,C243" pitch="∞" size="33" unroundedsize="33.000000000" perimeter="23" unroundedperimeter="23" dimension="6 x 6" unroundeddimension="5.5 x 6" />
+        </FACE>
+        <FACE designator="AE2" id="F75" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P75" orientation="129.5" path="L306,L308,L307,L305" points_path="C247,C250,C249,C248,C247" pitch="∞" size="39" unroundedsize="39.011965940" perimeter="25" unroundedperimeter="25.003988646" dimension="7 x 6" unroundeddimension="6.501994323 x 6" />
+        </FACE>
+        <FACE designator="AE3" id="F76" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P76" orientation="129.5" path="L310,L312,L311,L309" points_path="C251,C254,C253,C252,C251" pitch="∞" size="17" unroundedsize="16.500000000" perimeter="17" unroundedperimeter="17" dimension="3 x 5" unroundeddimension="3 x 5.5" />
+        </FACE>
+        <FACE designator="AA1" id="F77" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P77" orientation="39.5" path="L313,L315,L316,L314" points_path="C255,C256,C257,C258,C255" pitch="∞" size="15" unroundedsize="15.000000000" perimeter="17" unroundedperimeter="17" dimension="3 x 6" unroundeddimension="2.5 x 6" />
+        </FACE>
+        <FACE designator="O1" id="F78" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P78" orientation="39.5" path="L317,L319,L320,L318" points_path="C259,C260,C261,C262,C259" pitch="∞" size="17" unroundedsize="17.500000000" perimeter="17" unroundedperimeter="17" dimension="4 x 5" unroundeddimension="3.5 x 5" />
+        </FACE>
+        <FACE designator="J1" id="F79" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P79" orientation="353.9" path="L322,L324,L323,L321" points_path="C263,C266,C265,C264,C263" pitch="∞" size="10" unroundedsize="10.000000000" perimeter="14" unroundedperimeter="14" dimension="2 x 5" unroundeddimension="2 x 5" />
+        </FACE>
+        <FACE designator="K1" id="F80" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P80" orientation="83.6" path="L325,L327,L328,L326" points_path="C267,C268,C269,C270,C267" pitch="∞" size="10" unroundedsize="10.000000000" perimeter="14" unroundedperimeter="14" dimension="2 x 5" unroundeddimension="2 x 5" />
+        </FACE>
+        <FACE designator="AB1" id="F81" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P81" orientation="309.5" path="L330,L332,L331,L329" points_path="C271,C274,C273,C272,C271" pitch="∞" size="11" unroundedsize="11.250000000" perimeter="14" unroundedperimeter="14" dimension="3 x 4" unroundeddimension="2.5 x 4.5" />
+        </FACE>
+        <FACE designator="AB2" id="F82" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P82" orientation="309.5" path="L334,L336,L335,L333" points_path="C275,C278,C277,C276,C275" pitch="∞" size="11" unroundedsize="11.250000000" perimeter="14" unroundedperimeter="14" dimension="2 x 4" unroundeddimension="2.5 x 4.5" />
+        </FACE>
+        <FACE designator="AB3" id="F83" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P83" orientation="309.5" path="L338,L340,L339,L337" points_path="C279,C282,C281,C280,C279" pitch="∞" size="60" unroundedsize="60.198930524" perimeter="31" unroundedperimeter="31.049732631" dimension="8 x 8" unroundeddimension="8 x 7.524866315" />
+        </FACE>
+        <FACE designator="AB4" id="F84" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P84" orientation="309.5" path="L342,L344,L343,L341" points_path="C283,C286,C285,C284,C283" pitch="∞" size="60" unroundedsize="60.150166303" perimeter="31" unroundedperimeter="31.037541576" dimension="8 x 8" unroundeddimension="8 x 7.518770788" />
+        </FACE>
+        <FACE designator="AC1" id="F85" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P85" orientation="309.5" path="L345,L347,L348,L346" points_path="C287,C288,C289,C290,C287" pitch="∞" size="17" unroundedsize="16.500000000" perimeter="17" unroundedperimeter="17" dimension="3 x 6" unroundeddimension="3 x 5.5" />
+        </FACE>
+        <FACE designator="P1" id="F86" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P86" orientation="219.5" path="L350,L352,L351,L349" points_path="C291,C294,C293,C292,C291" pitch="∞" size="17" unroundedsize="16.500000000" perimeter="17" unroundedperimeter="17" dimension="3 x 6" unroundeddimension="3 x 5.5" />
+        </FACE>
+        <FACE designator="AC2" id="F87" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P87" orientation="309.5" path="L353,L355,L356,L354" points_path="C295,C296,C297,C298,C295" pitch="∞" size="15" unroundedsize="15.000000000" perimeter="16" unroundedperimeter="16" dimension="3 x 5" unroundeddimension="3 x 5" />
+        </FACE>
+        <FACE designator="AC3" id="F88" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P88" orientation="309.5" path="L357,L359,L360,L358" points_path="C299,C300,C301,C302,C299" pitch="∞" size="15" unroundedsize="15.000000000" perimeter="16" unroundedperimeter="16" dimension="3 x 5" unroundeddimension="3 x 5" />
+        </FACE>
+        <FACE designator="X1" id="F89" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P89" orientation="309.5" path="L361,L363,L364,L362" points_path="C303,C304,C305,C306,C303" pitch="∞" size="42" unroundedsize="42.000000000" perimeter="26" unroundedperimeter="26" dimension="6 x 7" unroundeddimension="6 x 7" />
+        </FACE>
+        <FACE designator="W1" id="F90" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P90" orientation="39.5" path="L365,L367,L368,L366" points_path="C307,C308,C309,C310,C307" pitch="∞" size="80" unroundedsize="80.500000000" perimeter="37" unroundedperimeter="37" dimension="11 x 7" unroundeddimension="11.5 x 7" />
+        </FACE>
+        <FACE designator="V1" id="F91" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P91" orientation="219.5" path="L370,L372,L371,L369" points_path="C311,C314,C313,C312,C311" pitch="∞" size="60" unroundedsize="59.559724861" perimeter="31" unroundedperimeter="31.017064246" dimension="9 x 7" unroundeddimension="8.508532123 x 7" />
+        </FACE>
+        <FACE designator="U1" id="F92" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P92" orientation="309.5" path="L373,L375,L376,L374" points_path="C315,C316,C317,C318,C315" pitch="∞" size="69" unroundedsize="68.651997003" perimeter="34" unroundedperimeter="33.614856287" dimension="10 x 7" unroundeddimension="9.807428143 x 7" />
+        </FACE>
+        <FACE designator="AC4" id="F93" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P93" orientation="309.5" path="L377,L379,L380,L378" points_path="C319,C320,C321,C322,C319" pitch="∞" size="21" unroundedsize="21.000000000" perimeter="20" unroundedperimeter="20" dimension="3 x 7" unroundeddimension="3 x 7" />
+        </FACE>
+        <FACE designator="S1" id="F94" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P94" orientation="129.5" path="L382,L384,L383,L381" points_path="C323,C326,C325,C324,C323" pitch="∞" size="21" unroundedsize="21.000000000" perimeter="20" unroundedperimeter="20" dimension="3 x 7" unroundeddimension="3 x 7" />
+        </FACE>
+        <FACE designator="S2" id="F95" material="1" type="WALLPENETRATION" children="">
+          <POLYGON id="P95" orientation="129.5" path="L386,L388,L387,L385" points_path="C327,C330,C329,C328,C327" pitch="∞" size="17" unroundedsize="16.500000000" perimeter="17" unroundedperimeter="17" dimension="3 x 6" unroundeddimension="3 x 5.5" />
+        </FACE>
+        <FACE designator="1" id="F96" material="3" type="MATERIAL" children="">
+          <POLYGON id="P96" orientation="39.5" path="L390,L393,L392,L391,L389" points_path="C335,C339,C338,C337,C336,C335" pitch="∞" size="14" unroundedsize="13.901990873" sizelesspenetrations="14" unroundedsizelesspenetrations="13.901990873" />
+        </FACE>
+        <FACE designator="1" id="F97" material="3" type="MATERIAL" children="">
+          <POLYGON id="P97" orientation="129.5" path="L396,L394,L393,L395" points_path="C340,C341,C338,C339,C340" pitch="∞" size="10" unroundedsize="10.010829835" sizelesspenetrations="10" unroundedsizelesspenetrations="10.010829835" />
+        </FACE>
+        <FACE designator="1" id="F98" material="3" type="MATERIAL" children="">
+          <POLYGON id="P98" orientation="219.5" path="L400,L398,L396,L397,L399" points_path="C342,C344,C341,C340,C343,C342" pitch="∞" size="14" unroundedsize="13.901990873" sizelesspenetrations="14" unroundedsizelesspenetrations="13.901990873" />
+        </FACE>
+        <FACE designator="1" id="F99" material="3" type="MATERIAL" children="">
+          <POLYGON id="P99" orientation="309.5" path="L391,L402,L400,L401" points_path="C336,C337,C344,C342,C336" pitch="∞" size="6" unroundedsize="5.951392615" sizelesspenetrations="6" unroundedsizelesspenetrations="5.951392615" />
+        </FACE>
+        <FACE designator="1" id="F100" material="2" type="MATERIAL" children="">
+          <POLYGON id="P100" orientation="39.5" path="L404,L409,L408,L407,L406,L405,L403" points_path="C345,C351,C350,C349,C348,C347,C346,C345" pitch="∞" size="215" unroundedsize="215.266507573" sizelesspenetrations="200" unroundedsizelesspenetrations="200.266507573" />
+        </FACE>
+        <FACE designator="1" id="F101" material="2" type="MATERIAL" children="">
+          <POLYGON id="P101" orientation="129.5" path="L410,L407,L411,L417,L412" points_path="C352,C348,C349,C353,C354,C352" pitch="∞" size="75" unroundedsize="74.986714272" sizelesspenetrations="65" unroundedsizelesspenetrations="64.986714272" />
+        </FACE>
+        <FACE designator="1" id="F102" material="2" type="MATERIAL" children="">
+          <POLYGON id="P102" orientation="39.5" path="L417,L413,L416,L415,L414" points_path="C354,C353,C357,C356,C355,C354" pitch="∞" size="19" unroundedsize="19.235760443" sizelesspenetrations="19" unroundedsizelesspenetrations="19.235760443" />
+        </FACE>
+        <FACE designator="1" id="F103" material="2" type="MATERIAL" children="">
+          <POLYGON id="P103" orientation="353.9" path="L419,L421,L420,L418" points_path="C358,C361,C360,C359,C358" pitch="∞" size="24" unroundedsize="24.087212408" sizelesspenetrations="14" unroundedsizelesspenetrations="14.087212408" />
+        </FACE>
+        <FACE designator="1" id="F104" material="2" type="MATERIAL" children="">
+          <POLYGON id="P104" orientation="83.6" path="L423,L425,L424,L422" points_path="C362,C365,C364,C363,C362" pitch="∞" size="25" unroundedsize="24.731596187" sizelesspenetrations="15" unroundedsizelesspenetrations="14.731596187" />
+        </FACE>
+        <FACE designator="1" id="F105" material="2" type="MATERIAL" children="">
+          <POLYGON id="P105" orientation="309.5" path="L427,L429,L428,L426" points_path="C366,C369,C368,C367,C366" pitch="∞" size="13" unroundedsize="13.467739507" sizelesspenetrations="13" unroundedsizelesspenetrations="13.467739507" />
+        </FACE>
+        <FACE designator="1" id="F106" material="2" type="MATERIAL" children="">
+          <POLYGON id="P106" orientation="219.5" path="L507,L432,L431,L430" points_path="C370,C373,C372,C371,C370" pitch="∞" size="94" unroundedsize="94.375304468" sizelesspenetrations="35" unroundedsizelesspenetrations="34.815579607" />
+        </FACE>
+        <FACE designator="1" id="F107" material="2" type="MATERIAL" children="">
+          <POLYGON id="P107" orientation="309.5" path="L431,L434,L435,L433" points_path="C371,C372,C375,C374,C371" pitch="∞" size="91" unroundedsize="91.236468389" sizelesspenetrations="23" unroundedsizelesspenetrations="22.584471386" />
+        </FACE>
+        <FACE designator="1" id="F108" material="2" type="MATERIAL" children="">
+          <POLYGON id="P108" orientation="129.5" path="L437,L439,L438,L436" points_path="C376,C379,C378,C377,C376" pitch="∞" size="74" unroundedsize="73.529220609" sizelesspenetrations="35" unroundedsizelesspenetrations="34.579771516" />
+        </FACE>
+        <FACE designator="1" id="F109" material="2" type="MATERIAL" children="">
+          <POLYGON id="P109" orientation="219.5" path="L438,L441,L427,L440,L442" points_path="C377,C378,C369,C366,C380,C377" pitch="∞" size="79" unroundedsize="78.604809039" sizelesspenetrations="33" unroundedsizelesspenetrations="33.104809039" />
+        </FACE>
+        <FACE designator="1" id="F110" material="2" type="MATERIAL" children="">
+          <POLYGON id="P110" orientation="219.5" path="L428,L444,L452,L456,L455,L446,L447,L448,L449,L450,L451,L443" points_path="C367,C368,C381,C391,C392,C384,C385,C386,C387,C388,C389,C390,C367" pitch="∞" size="526" unroundedsize="526.337208363" sizelesspenetrations="510" unroundedsizelesspenetrations="510.087208363" />
+        </FACE>
+        <FACE designator="1" id="F111" material="3" type="MATERIAL" children="">
+          <POLYGON id="P111" orientation="219.5" path="L453,L445,L454,L456" points_path="C391,C382,C383,C392,C391" pitch="∞" size="24" unroundedsize="24.174153772" sizelesspenetrations="24" unroundedsizelesspenetrations="24.174153772" />
+        </FACE>
+        <FACE designator="1" id="F112" material="2" type="MATERIAL" children="">
+          <POLYGON id="P112" orientation="39.5" path="L437,L457,L459,L458" points_path="C379,C376,C394,C393,C379" pitch="∞" size="20" unroundedsize="20.323842852" sizelesspenetrations="20" unroundedsizelesspenetrations="20.323842852" />
+        </FACE>
+        <FACE designator="1" id="F113" material="3" type="MATERIAL" children="">
+          <POLYGON id="P113" orientation="39.5" path="L470,L545,L544,L463,L464,L469" points_path="C403,C404,C447,C395,C396,C397,C403" pitch="∞" size="103" unroundedsize="102.901110725" sizelesspenetrations="103" unroundedsizelesspenetrations="102.901110725" />
+        </FACE>
+        <FACE designator="1" id="F114" material="2" type="MATERIAL" children="">
+          <POLYGON id="P114" orientation="39.5" path="L471,L424,L461,L419,L460,L465,L462,L471,L466,L467,L468,L470,L472" points_path="C400,C363,C364,C361,C358,C398,C399,C363,C400,C401,C402,C404,C403,C400" pitch="∞" size="273" unroundedsize="272.551559940" sizelesspenetrations="258" unroundedsizelesspenetrations="257.551559940" />
+        </FACE>
+        <FACE designator="1" id="F115" material="2" type="MATERIAL" children="">
+          <POLYGON id="P115" orientation="219.5" path="L474,L475,L473" points_path="C405,C407,C406,C405" pitch="∞" size="1" unroundedsize="1.036163942" sizelesspenetrations="1" unroundedsizelesspenetrations="1.036163942" />
+        </FACE>
+        <FACE designator="1" id="F116" material="2" type="MATERIAL" children="">
+          <POLYGON id="P116" orientation="39.5" path="L476,L435,L477,L479,L478" points_path="C408,C374,C375,C410,C409,C408" pitch="∞" size="145" unroundedsize="145.012228610" sizelesspenetrations="65" unroundedsizelesspenetrations="64.512228610" />
+        </FACE>
+        <FACE designator="1" id="F117" material="2" type="MATERIAL" children="">
+          <POLYGON id="P117" orientation="219.5" path="L481,L483,L482,L480" points_path="C411,C414,C413,C412,C411" pitch="∞" size="9" unroundedsize="8.762755413" sizelesspenetrations="9" unroundedsizelesspenetrations="8.762755413" />
+        </FACE>
+        <FACE designator="1" id="F118" material="2" type="MATERIAL" children="">
+          <POLYGON id="P118" orientation="39.5" path="L484,L420,L485,L423" points_path="C362,C359,C360,C365,C362" pitch="∞" size="38" unroundedsize="38.397471150" sizelesspenetrations="21" unroundedsizelesspenetrations="20.897471150" />
+        </FACE>
+        <FACE designator="1" id="F119" material="3" type="MATERIAL" children="">
+          <POLYGON id="P119" orientation="39.5" path="L489,L495,L494,L492" points_path="C417,C418,C420,C419,C417" pitch="∞" size="2" unroundedsize="1.575608975" sizelesspenetrations="2" unroundedsizelesspenetrations="1.575608975" />
+        </FACE>
+        <FACE designator="1" id="F120" material="2" type="MATERIAL" children="">
+          <POLYGON id="P120" orientation="39.5" path="L495,L490,L491,L493" points_path="C420,C418,C416,C373,C420" pitch="∞" size="34" unroundedsize="33.878612718" sizelesspenetrations="34" unroundedsizelesspenetrations="33.878612718" />
+        </FACE>
+        <FACE designator="1" id="F121" material="3" type="MATERIAL" children="">
+          <POLYGON id="P121" orientation="219.5" path="L500,L502,L498,L496" points_path="C421,C426,C425,C422,C421" pitch="∞" size="2" unroundedsize="1.542852107" sizelesspenetrations="2" unroundedsizelesspenetrations="1.542852107" />
+        </FACE>
+        <FACE designator="1" id="F122" material="2" type="MATERIAL" children="">
+          <POLYGON id="P122" orientation="219.5" path="L502,L501,L497,L499" points_path="C425,C426,C424,C423,C425" pitch="∞" size="71" unroundedsize="71.197799910" sizelesspenetrations="55" unroundedsizelesspenetrations="54.697799910" />
+        </FACE>
+        <FACE designator="1" id="F123" material="2" type="MATERIAL" children="">
+          <POLYGON id="P123" orientation="309.5" path="L493,L507,L503,L403,L504,L447,L505,L501,L508" points_path="C420,C373,C370,C345,C346,C386,C385,C424,C426,C420" pitch="∞" size="505" unroundedsize="505.248328238" sizelesspenetrations="438" unroundedsizelesspenetrations="437.748328238" />
+        </FACE>
+        <FACE designator="1" id="F124" material="3" type="MATERIAL" children="">
+          <POLYGON id="P124" orientation="309.5" path="L500,L506,L494,L508" points_path="C426,C421,C419,C420,C426" pitch="∞" size="6" unroundedsize="5.732030296" sizelesspenetrations="6" unroundedsizelesspenetrations="5.732030296" />
+        </FACE>
+        <FACE designator="1" id="F125" material="3" type="MATERIAL" children="">
+          <POLYGON id="P125" orientation="309.5" path="L498,L511,L454,L509" points_path="C422,C425,C392,C383,C422" pitch="∞" size="9" unroundedsize="8.582245341" sizelesspenetrations="9" unroundedsizelesspenetrations="8.582245341" />
+        </FACE>
+        <FACE designator="1" id="F126" material="2" type="MATERIAL" children="">
+          <POLYGON id="P126" orientation="309.5" path="L499,L510,L455,L511" points_path="C425,C423,C384,C392,C425" pitch="∞" size="165" unroundedsize="165.450461511" sizelesspenetrations="123" unroundedsizelesspenetrations="123.450461511" />
+        </FACE>
+        <FACE designator="1" id="F127" material="2" type="MATERIAL" children="">
+          <POLYGON id="P127" orientation="39.5" path="L543,L514,L513,L512" points_path="C427,C430,C429,C428,C427" pitch="∞" size="29" unroundedsize="28.885896329" sizelesspenetrations="29" unroundedsizelesspenetrations="28.885896329" />
+        </FACE>
+        <FACE designator="1" id="F128" material="2" type="MATERIAL" children="">
+          <POLYGON id="P128" orientation="39.5" path="L515,L517,L518,L516" points_path="C431,C432,C433,C434,C431" pitch="∞" size="29" unroundedsize="28.887802586" sizelesspenetrations="29" unroundedsizelesspenetrations="28.887802586" />
+        </FACE>
+        <FACE designator="1" id="F129" material="2" type="MATERIAL" children="">
+          <POLYGON id="P129" orientation="129.5" path="L516,L520,L513,L519" points_path="C431,C434,C429,C428,C431" pitch="∞" size="77" unroundedsize="76.562336790" sizelesspenetrations="39" unroundedsizelesspenetrations="39.062336790" />
+        </FACE>
+        <FACE designator="1" id="F130" material="2" type="MATERIAL" children="">
+          <POLYGON id="P130" orientation="129.5" path="L517,L529,L531,L452,L523,L459,L527,L526,L451,L525,L521,L416,L522,L473,L528" points_path="C433,C432,C438,C391,C381,C393,C394,C436,C390,C389,C435,C356,C357,C405,C406,C433" pitch="∞" size="246" unroundedsize="245.532788827" sizelesspenetrations="218" unroundedsizelesspenetrations="218.032788827" />
+        </FACE>
+        <FACE designator="1" id="F131" material="3" type="MATERIAL" children="">
+          <POLYGON id="P131" orientation="129.5" path="L531,L530,L524,L453" points_path="C391,C438,C437,C382,C391" pitch="∞" size="14" unroundedsize="14.255850040" sizelesspenetrations="14" unroundedsizelesspenetrations="14.255850040" />
+        </FACE>
+        <FACE designator="1" id="F132" material="3" type="MATERIAL" children="">
+          <POLYGON id="P132" orientation="129.5" path="L469,L532,L536,L535,L541,L542" points_path="C403,C397,C441,C440,C439,C446,C403" pitch="∞" size="89" unroundedsize="88.743569890" sizelesspenetrations="89" unroundedsizelesspenetrations="88.743569890" />
+        </FACE>
+        <FACE designator="1" id="F133" material="2" type="MATERIAL" children="">
+          <POLYGON id="P133" orientation="129.5" path="L540,L543,L534,L539,L538,L537,L533,L472,L542" points_path="C446,C427,C430,C445,C444,C443,C442,C400,C403,C446" pitch="∞" size="498" unroundedsize="497.761960611" sizelesspenetrations="409" unroundedsizelesspenetrations="409.249994671" />
+        </FACE>
+        <FACE designator="1" id="F134" material="3" type="MATERIAL" children="">
+          <POLYGON id="P134" orientation="309.5" path="L489,L488,L548,L547" points_path="C418,C417,C415,C447,C418" pitch="∞" size="13" unroundedsize="12.832311582" sizelesspenetrations="7" unroundedsizelesspenetrations="7.109339406" />
+        </FACE>
+        <FACE designator="1" id="F135" material="2" type="MATERIAL" children="">
+          <POLYGON id="P135" orientation="309.5" path="L486,L479,L487,L490,L547,L544,L546,L468" points_path="C402,C409,C410,C416,C418,C447,C395,C404,C402" pitch="∞" size="498" unroundedsize="497.798177871" sizelesspenetrations="361" unroundedsizelesspenetrations="360.672053221" />
+        </FACE>
+      </FACES>
+      <LINES>
+        <LINE id="L64" path="C61,C60" type="BOTTOMWALL" />
+        <LINE id="L65" path="C62,C61" type="OUTSIDECORNER" />
+        <LINE id="L66" path="C63,C62" type="TOPWALL" />
+        <LINE id="L67" path="C64,C63" type="OUTSIDECORNER" />
+        <LINE id="L68" path="C60,C64" type="BOTTOMWALL" />
+        <LINE id="L69" path="C64,C65" type="BOTTOMWALL" />
+        <LINE id="L70" path="C66,C63" type="TOPWALL" />
+        <LINE id="L71" path="C65,C66" type="OUTSIDECORNER" />
+        <LINE id="L72" path="C68,C67" type="BOTTOMWALL" />
+        <LINE id="L73" path="C65,C68" type="BOTTOMWALL" />
+        <LINE id="L74" path="C69,C66" type="TOPWALL" />
+        <LINE id="L75" path="C67,C69" type="OUTSIDECORNER" />
+        <LINE id="L76" path="C67,C61" type="BOTTOMWALL" />
+        <LINE id="L77" path="C62,C69" type="TOPWALL" />
+        <LINE id="L78" path="C70,C168" type="OUTSIDECORNER" />
+        <LINE id="L79" path="C72,C71" type="OUTSIDECORNER" />
+        <LINE id="L80" path="C180,C73" type="OBTUSEINSIDECORNER" />
+        <LINE id="L81" path="C74,C183" type="OBTUSEINSIDECORNER" />
+        <LINE id="L82" path="C77,C76" type="TOPWALL" />
+        <LINE id="L83" path="C77,C78" type="OUTSIDECORNER" />
+        <LINE id="L84" path="C79,C78" type="BOTTOMWALL" />
+        <LINE id="L85" path="C169,C168" type="TOPWALL" />
+        <LINE id="L86" path="C83,C169" type="TOPWALL" />
+        <LINE id="L87" path="C196,C83" type="TOPWALL" />
+        <LINE id="L88" path="C81,C84" type="TOPWALL" />
+        <LINE id="L89" path="C172,C86" type="TOPWALL" />
+        <LINE id="L90" path="C87,C172" type="OUTSIDECORNER" />
+        <LINE id="L91" path="C88,C87" type="BOTTOMWALL" />
+        <LINE id="L92" path="C89,C88" type="OUTSIDECORNER" />
+        <LINE id="L93" path="C78,C89" type="BOTTOMWALL" />
+        <LINE id="L94" path="C90,C77" type="TOPWALL" />
+        <LINE id="L95" path="C90,C91" type="INSIDECORNER" />
+        <LINE id="L96" path="C173,C172" type="TOPWALL" />
+        <LINE id="L97" path="C173,C92" type="OUTSIDECORNER" />
+        <LINE id="L98" path="C93,C92" type="TOPWALL" />
+        <LINE id="L99" path="C93,C94" type="INSIDECORNER" />
+        <LINE id="L100" path="C87,C138" type="BOTTOMWALL" />
+        <LINE id="L101" path="C158,C94" type="TOPWALL" />
+        <LINE id="L102" path="C159,C95" type="INSIDECORNER" />
+        <LINE id="L103" path="C96,C97" type="TOPWALL" />
+        <LINE id="L104" path="C98,C173" type="TOPWALL" />
+        <LINE id="L105" path="C176,C98" type="TOPWALL" />
+        <LINE id="L106" path="C99,C176" type="OUTSIDECORNER" />
+        <LINE id="L107" path="C100,C99" type="BOTTOMWALL" />
+        <LINE id="L108" path="C101,C100" type="BOTTOMWALL" />
+        <LINE id="L109" path="C92,C101" type="BOTTOMWALL" />
+        <LINE id="L110" path="C102,C177" type="INSIDECORNER" />
+        <LINE id="L111" path="C99,C102" type="BOTTOMWALL" />
+        <LINE id="L112" path="C177,C176" type="TOPWALL" />
+        <LINE id="L113" path="C104,C205" type="OUTSIDECORNER" />
+        <LINE id="L114" path="C102,C104" type="BOTTOMWALL" />
+        <LINE id="L115" path="C103,C177" type="TOPWALL" />
+        <LINE id="L116" path="C106,C105" type="BOTTOMWALL" />
+        <LINE id="L117" path="C95,C108" type="BOTTOMWALL" />
+        <LINE id="L118" path="C160,C159" type="BOTTOMWALL" />
+        <LINE id="L119" path="C160,C187" type="OUTSIDECORNER" />
+        <LINE id="L120" path="C110,C109" type="BOTTOMWALL" />
+        <LINE id="L121" path="C97,C110" type="BOTTOMWALL" />
+        <LINE id="L122" path="C200,C180" type="TOPWALL" />
+        <LINE id="L123" path="C149,C200" type="OBTUSEOUTSIDECORNER" />
+        <LINE id="L124" path="C73,C149" type="BOTTOMWALL" />
+        <LINE id="L125" path="C183,C201" type="TOPWALL" />
+        <LINE id="L126" path="C150,C74" type="BOTTOMWALL" />
+        <LINE id="L127" path="C201,C150" type="OBTUSEOUTSIDECORNER" />
+        <LINE id="L128" path="C194,C155" type="OUTSIDECORNER" />
+        <LINE id="L129" path="C91,C216" type="TOPWALL" />
+        <LINE id="L130" path="C153,C90" type="BOTTOMWALL" />
+        <LINE id="L131" path="C216,C153" type="OUTSIDECORNER" />
+        <LINE id="L132" path="C186,C93" type="TOPWALL" />
+        <LINE id="L133" path="C161,C186" type="OUTSIDECORNER" />
+        <LINE id="L134" path="C94,C161" type="BOTTOMWALL" />
+        <LINE id="L135" path="C187,C186" type="TOPWALL" />
+        <LINE id="L136" path="C161,C160" type="BOTTOMWALL" />
+        <LINE id="L137" path="C190,C112" type="OUTSIDECORNER" />
+        <LINE id="L138" path="C191,C190" type="TOPWALL" />
+        <LINE id="L139" path="C212,C194" type="TOPWALL" />
+        <LINE id="L140" path="C154,C212" type="OUTSIDECORNER" />
+        <LINE id="L141" path="C155,C154" type="BOTTOMWALL" />
+        <LINE id="L142" path="C215,C212" type="TOPWALL" />
+        <LINE id="L143" path="C216,C215" type="TOPWALL" />
+        <LINE id="L144" path="C154,C153" type="BOTTOMWALL" />
+        <LINE id="L145" path="C86,C191" type="TOPWALL" />
+        <LINE id="L146" path="C112,C91" type="BOTTOMWALL" />
+        <LINE id="L147" path="C111,C76" type="INSIDECORNER" />
+        <LINE id="L148" path="C76,C155" type="BOTTOMWALL" />
+        <LINE id="L149" path="C75,C205" type="TOPWALL" />
+        <LINE id="L150" path="C190,C75" type="TOPWALL" />
+        <LINE id="L151" path="C197,C196" type="TOPWALL" />
+        <LINE id="L152" path="C104,C113" type="BOTTOMWALL" />
+        <LINE id="L153" path="C168,C107" type="TOPWALL" />
+        <LINE id="L154" path="C70,C74" type="PARAPET" />
+        <LINE id="L155" path="C107,C72" type="TOPWALL" />
+        <LINE id="L156" path="C180,C106" type="BOTTOMWALL" />
+        <LINE id="L157" path="C74,C73" type="TOPWALL" />
+        <LINE id="L158" path="C105,C183" type="BOTTOMWALL" />
+        <LINE id="L159" path="C114,C80" type="TOPWALL" />
+        <LINE id="L160" path="C114,C113" type="INSIDECORNER" />
+        <LINE id="L161" path="C113,C115" type="TOPWALL" />
+        <LINE id="L162" path="C115,C114" type="BOTTOMWALL" />
+        <LINE id="L163" path="C108,C187" type="TOPWALL" />
+        <LINE id="L164" path="C109,C96" type="TOPWALL" />
+        <LINE id="L165" path="C201,C200" type="TOPWALL" />
+        <LINE id="L166" path="C149,C150" type="BOTTOMWALL" />
+        <LINE id="L167" path="C194,C111" type="TOPWALL" />
+        <LINE id="L168" path="C116,C112" type="BOTTOMWALL" />
+        <LINE id="L169" path="C111,C116" type="BOTTOMWALL" />
+        <LINE id="L170" path="C204,C103" type="PARAPET" />
+        <LINE id="L171" path="C205,C204" type="TOPWALL" />
+        <LINE id="L172" path="C118,C117" type="BOTTOMWALL" />
+        <LINE id="L173" path="C119,C118" type="BOTTOMWALL" />
+        <LINE id="L174" path="C120,C119" type="BOTTOMWALL" />
+        <LINE id="L175" path="C117,C71" type="PARAPET" />
+        <LINE id="L176" path="C72,C95" type="TOPWALL" />
+        <LINE id="L177" path="C159,C158" type="TOPWALL" />
+        <LINE id="L178" path="C158,C118" type="INSIDECORNER" />
+        <LINE id="L179" path="C94,C119" type="OUTSIDECORNER" />
+        <LINE id="L180" path="C138,C139" type="TOPWALL" />
+        <LINE id="L181" path="C139,C121" type="INSIDECORNER" />
+        <LINE id="L182" path="C120,C138" type="OUTSIDECORNER" />
+        <LINE id="L183" path="C121,C120" type="BOTTOMWALL" />
+        <LINE id="L184" path="C139,C88" type="TOPWALL" />
+        <LINE id="L185" path="C89,C121" type="BOTTOMWALL" />
+        <LINE id="L186" path="C123,C122" type="BOTTOMWALL" />
+        <LINE id="L187" path="C123,C124" type="BOTTOMWALL" />
+        <LINE id="L188" path="C124,C125" type="BOTTOMWALL" />
+        <LINE id="L189" path="C122,C81" type="OUTSIDECORNER" />
+        <LINE id="L190" path="C84,C123" type="INSIDECORNER" />
+        <LINE id="L191" path="C80,C85" type="TOPWALL" />
+        <LINE id="L192" path="C125,C80" type="OUTSIDECORNER" />
+        <LINE id="L193" path="C85,C124" type="INSIDECORNER" />
+        <LINE id="L194" path="C85,C84" type="TOPWALL" />
+        <LINE id="L195" path="C126,C82" type="BOTTOMWALL" />
+        <LINE id="L196" path="C127,C126" type="BOTTOMWALL" />
+        <LINE id="L197" path="C70,C127" type="BOTTOMWALL" />
+        <LINE id="L198" path="C128,C70" type="BOTTOMWALL" />
+        <LINE id="L199" path="C71,C128" type="BOTTOMWALL" />
+        <LINE id="L200" path="C125,C79" type="PARAPET" />
+        <LINE id="L201" path="C81,C197" type="PARAPET" />
+        <LINE id="L202" path="C82,C122" type="PARAPET" />
+        <LINE id="L277" path="C219,C220" type="OTHER" />
+        <LINE id="L278" path="C222,C219" type="OTHER" />
+        <LINE id="L279" path="C220,C221" type="OTHER" />
+        <LINE id="L280" path="C221,C222" type="OTHER" />
+        <LINE id="L281" path="C224,C223" type="OTHER" />
+        <LINE id="L282" path="C223,C226" type="OTHER" />
+        <LINE id="L283" path="C225,C224" type="OTHER" />
+        <LINE id="L284" path="C226,C225" type="OTHER" />
+        <LINE id="L285" path="C227,C228" type="OTHER" />
+        <LINE id="L286" path="C230,C227" type="OTHER" />
+        <LINE id="L287" path="C228,C229" type="OTHER" />
+        <LINE id="L288" path="C229,C230" type="OTHER" />
+        <LINE id="L289" path="C232,C231" type="OTHER" />
+        <LINE id="L290" path="C231,C234" type="OTHER" />
+        <LINE id="L291" path="C233,C232" type="OTHER" />
+        <LINE id="L292" path="C234,C233" type="OTHER" />
+        <LINE id="L293" path="C236,C235" type="OTHER" />
+        <LINE id="L294" path="C235,C238" type="OTHER" />
+        <LINE id="L295" path="C237,C236" type="OTHER" />
+        <LINE id="L296" path="C238,C237" type="OTHER" />
+        <LINE id="L297" path="C239,C240" type="OTHER" />
+        <LINE id="L298" path="C242,C239" type="OTHER" />
+        <LINE id="L299" path="C240,C241" type="OTHER" />
+        <LINE id="L300" path="C241,C242" type="OTHER" />
+        <LINE id="L301" path="C244,C243" type="OTHER" />
+        <LINE id="L302" path="C243,C246" type="OTHER" />
+        <LINE id="L303" path="C245,C244" type="OTHER" />
+        <LINE id="L304" path="C246,C245" type="OTHER" />
+        <LINE id="L305" path="C248,C247" type="OTHER" />
+        <LINE id="L306" path="C247,C250" type="OTHER" />
+        <LINE id="L307" path="C249,C248" type="OTHER" />
+        <LINE id="L308" path="C250,C249" type="OTHER" />
+        <LINE id="L309" path="C252,C251" type="OTHER" />
+        <LINE id="L310" path="C251,C254" type="OTHER" />
+        <LINE id="L311" path="C253,C252" type="OTHER" />
+        <LINE id="L312" path="C254,C253" type="OTHER" />
+        <LINE id="L313" path="C255,C256" type="OTHER" />
+        <LINE id="L314" path="C258,C255" type="OTHER" />
+        <LINE id="L315" path="C256,C257" type="OTHER" />
+        <LINE id="L316" path="C257,C258" type="OTHER" />
+        <LINE id="L317" path="C259,C260" type="OTHER" />
+        <LINE id="L318" path="C262,C259" type="OTHER" />
+        <LINE id="L319" path="C260,C261" type="OTHER" />
+        <LINE id="L320" path="C261,C262" type="OTHER" />
+        <LINE id="L321" path="C264,C263" type="OTHER" />
+        <LINE id="L322" path="C263,C266" type="OTHER" />
+        <LINE id="L323" path="C265,C264" type="OTHER" />
+        <LINE id="L324" path="C266,C265" type="OTHER" />
+        <LINE id="L325" path="C267,C268" type="OTHER" />
+        <LINE id="L326" path="C270,C267" type="OTHER" />
+        <LINE id="L327" path="C268,C269" type="OTHER" />
+        <LINE id="L328" path="C269,C270" type="OTHER" />
+        <LINE id="L329" path="C272,C271" type="OTHER" />
+        <LINE id="L330" path="C271,C274" type="OTHER" />
+        <LINE id="L331" path="C273,C272" type="OTHER" />
+        <LINE id="L332" path="C274,C273" type="OTHER" />
+        <LINE id="L333" path="C276,C275" type="OTHER" />
+        <LINE id="L334" path="C275,C278" type="OTHER" />
+        <LINE id="L335" path="C277,C276" type="OTHER" />
+        <LINE id="L336" path="C278,C277" type="OTHER" />
+        <LINE id="L337" path="C280,C279" type="OTHER" />
+        <LINE id="L338" path="C279,C282" type="OTHER" />
+        <LINE id="L339" path="C281,C280" type="OTHER" />
+        <LINE id="L340" path="C282,C281" type="OTHER" />
+        <LINE id="L341" path="C284,C283" type="OTHER" />
+        <LINE id="L342" path="C283,C286" type="OTHER" />
+        <LINE id="L343" path="C285,C284" type="OTHER" />
+        <LINE id="L344" path="C286,C285" type="OTHER" />
+        <LINE id="L345" path="C287,C288" type="OTHER" />
+        <LINE id="L346" path="C290,C287" type="OTHER" />
+        <LINE id="L347" path="C288,C289" type="OTHER" />
+        <LINE id="L348" path="C289,C290" type="OTHER" />
+        <LINE id="L349" path="C292,C291" type="OTHER" />
+        <LINE id="L350" path="C291,C294" type="OTHER" />
+        <LINE id="L351" path="C293,C292" type="OTHER" />
+        <LINE id="L352" path="C294,C293" type="OTHER" />
+        <LINE id="L353" path="C295,C296" type="OTHER" />
+        <LINE id="L354" path="C298,C295" type="OTHER" />
+        <LINE id="L355" path="C296,C297" type="OTHER" />
+        <LINE id="L356" path="C297,C298" type="OTHER" />
+        <LINE id="L357" path="C299,C300" type="OTHER" />
+        <LINE id="L358" path="C302,C299" type="OTHER" />
+        <LINE id="L359" path="C300,C301" type="OTHER" />
+        <LINE id="L360" path="C301,C302" type="OTHER" />
+        <LINE id="L361" path="C303,C304" type="OTHER" />
+        <LINE id="L362" path="C306,C303" type="OTHER" />
+        <LINE id="L363" path="C304,C305" type="OTHER" />
+        <LINE id="L364" path="C305,C306" type="OTHER" />
+        <LINE id="L365" path="C307,C308" type="OTHER" />
+        <LINE id="L366" path="C310,C307" type="OTHER" />
+        <LINE id="L367" path="C308,C309" type="OTHER" />
+        <LINE id="L368" path="C309,C310" type="OTHER" />
+        <LINE id="L369" path="C312,C311" type="OTHER" />
+        <LINE id="L370" path="C311,C314" type="OTHER" />
+        <LINE id="L371" path="C313,C312" type="OTHER" />
+        <LINE id="L372" path="C314,C313" type="OTHER" />
+        <LINE id="L373" path="C315,C316" type="OTHER" />
+        <LINE id="L374" path="C318,C315" type="OTHER" />
+        <LINE id="L375" path="C316,C317" type="OTHER" />
+        <LINE id="L376" path="C317,C318" type="OTHER" />
+        <LINE id="L377" path="C319,C320" type="OTHER" />
+        <LINE id="L378" path="C322,C319" type="OTHER" />
+        <LINE id="L379" path="C320,C321" type="OTHER" />
+        <LINE id="L380" path="C321,C322" type="OTHER" />
+        <LINE id="L381" path="C324,C323" type="OTHER" />
+        <LINE id="L382" path="C323,C326" type="OTHER" />
+        <LINE id="L383" path="C325,C324" type="OTHER" />
+        <LINE id="L384" path="C326,C325" type="OTHER" />
+        <LINE id="L385" path="C328,C327" type="OTHER" />
+        <LINE id="L386" path="C327,C330" type="OTHER" />
+        <LINE id="L387" path="C329,C328" type="OTHER" />
+        <LINE id="L388" path="C330,C329" type="OTHER" />
+        <LINE id="L389" path="C336,C335" type="BOTTOM_OF_MASONRY" />
+        <LINE id="L390" path="C335,C339" type="BOTTOM_OF_MASONRY" />
+        <LINE id="L391" path="C337,C336" type="OUTSIDE_CORNER_MASONRY" />
+        <LINE id="L392" path="C338,C337" type="TOP_OF_MASONRY" />
+        <LINE id="L393" path="C339,C338" type="OUTSIDE_CORNER_MASONRY" />
+        <LINE id="L394" path="C341,C338" type="TOP_OF_MASONRY" />
+        <LINE id="L395" path="C339,C340" type="BOTTOM_OF_MASONRY" />
+        <LINE id="L396" path="C340,C341" type="OUTSIDE_CORNER_MASONRY" />
+        <LINE id="L397" path="C340,C343" type="BOTTOM_OF_MASONRY" />
+        <LINE id="L398" path="C344,C341" type="TOP_OF_MASONRY" />
+        <LINE id="L399" path="C343,C342" type="BOTTOM_OF_MASONRY" />
+        <LINE id="L400" path="C342,C344" type="OUTSIDE_CORNER_MASONRY" />
+        <LINE id="L401" path="C342,C336" type="BOTTOM_OF_MASONRY" />
+        <LINE id="L402" path="C337,C344" type="TOP_OF_MASONRY" />
+        <LINE id="L403" path="C346,C345" type="OUTSIDE_CORNER_SIDING" />
+        <LINE id="L404" path="C345,C351" type="BOTTOM_OF_SIDING" />
+        <LINE id="L405" path="C347,C346" type="TOP_OF_SIDING" />
+        <LINE id="L406" path="C348,C347" type="TOP_OF_SIDING" />
+        <LINE id="L407" path="C349,C348" type="OUTSIDE_CORNER_SIDING" />
+        <LINE id="L408" path="C350,C349" type="BOTTOM_OF_SIDING" />
+        <LINE id="L409" path="C351,C350" type="BOTTOM_OF_SIDING" />
+        <LINE id="L410" path="C352,C348" type="TOP_OF_SIDING" />
+        <LINE id="L411" path="C349,C353" type="BOTTOM_OF_SIDING" />
+        <LINE id="L412" path="C354,C352" type="INSIDE_CORNER_SIDING" />
+        <LINE id="L413" path="C353,C357" type="BOTTOM_OF_SIDING" />
+        <LINE id="L414" path="C355,C354" type="PARAPET" />
+        <LINE id="L415" path="C356,C355" type="TOP_OF_SIDING" />
+        <LINE id="L416" path="C357,C356" type="OUTSIDE_CORNER_SIDING" />
+        <LINE id="L417" path="C353,C354" type="INSIDE_CORNER_SIDING" />
+        <LINE id="L418" path="C359,C358" type="TOP_OF_SIDING" />
+        <LINE id="L419" path="C358,C361" type="OBTUSE_INSIDE_CORNER_SIDING" />
+        <LINE id="L420" path="C360,C359" type="OBTUSE_OUTSIDE_CORNER_SIDING" />
+        <LINE id="L421" path="C361,C360" type="BOTTOM_OF_SIDING" />
+        <LINE id="L422" path="C363,C362" type="TOP_OF_SIDING" />
+        <LINE id="L423" path="C362,C365" type="OBTUSE_OUTSIDE_CORNER_SIDING" />
+        <LINE id="L424" path="C364,C363" type="OBTUSE_INSIDE_CORNER_SIDING" />
+        <LINE id="L425" path="C365,C364" type="BOTTOM_OF_SIDING" />
+        <LINE id="L426" path="C367,C366" type="TOP_OF_SIDING" />
+        <LINE id="L427" path="C366,C369" type="OUTSIDE_CORNER_SIDING" />
+        <LINE id="L428" path="C368,C367" type="INSIDE_CORNER_SIDING" />
+        <LINE id="L429" path="C369,C368" type="BOTTOM_OF_SIDING" />
+        <LINE id="L430" path="C371,C370" type="TOP_OF_SIDING" />
+        <LINE id="L431" path="C372,C371" type="OUTSIDE_CORNER_SIDING" />
+        <LINE id="L432" path="C373,C372" type="BOTTOM_OF_SIDING" />
+        <LINE id="L433" path="C374,C371" type="TOP_OF_SIDING" />
+        <LINE id="L434" path="C372,C375" type="BOTTOM_OF_SIDING" />
+        <LINE id="L435" path="C375,C374" type="OUTSIDE_CORNER_SIDING" />
+        <LINE id="L436" path="C377,C376" type="TOP_OF_SIDING" />
+        <LINE id="L437" path="C376,C379" type="OUTSIDE_CORNER_SIDING" />
+        <LINE id="L438" path="C378,C377" type="OUTSIDE_CORNER_SIDING" />
+        <LINE id="L439" path="C379,C378" type="BOTTOM_OF_SIDING" />
+        <LINE id="L440" path="C366,C380" type="TOP_OF_SIDING" />
+        <LINE id="L441" path="C378,C369" type="BOTTOM_OF_SIDING" />
+        <LINE id="L442" path="C380,C377" type="TOP_OF_SIDING" />
+        <LINE id="L443" path="C390,C367" type="BOTTOM_OF_SIDING" />
+        <LINE id="L444" path="C368,C381" type="TOP_OF_SIDING" />
+        <LINE id="L445" path="C382,C383" type="BOTTOM_OF_MASONRY" />
+        <LINE id="L446" path="C384,C385" type="BOTTOM_OF_SIDING" />
+        <LINE id="L447" path="C385,C386" type="OUTSIDE_CORNER_SIDING" />
+        <LINE id="L448" path="C386,C387" type="TOP_OF_SIDING" />
+        <LINE id="L449" path="C387,C388" type="TOP_OF_SIDING" />
+        <LINE id="L450" path="C388,C389" type="TOP_OF_SIDING" />
+        <LINE id="L451" path="C389,C390" type="OUTSIDE_CORNER_SIDING" />
+        <LINE id="L452" path="C381,C391" type="OUTSIDE_CORNER_SIDING" />
+        <LINE id="L453" path="C391,C382" type="OUTSIDE_CORNER_MASONRY" />
+        <LINE id="L454" path="C383,C392" type="OUTSIDE_CORNER_MASONRY" />
+        <LINE id="L455" path="C392,C384" type="OUTSIDE_CORNER_SIDING" />
+        <LINE id="L456" path="C391,C392" type="BOTTOM_OF_SIDING" />
+        <LINE id="L457" path="C376,C394" type="TOP_OF_SIDING" />
+        <LINE id="L458" path="C393,C379" type="BOTTOM_OF_SIDING" />
+        <LINE id="L459" path="C394,C393" type="INSIDE_CORNER_SIDING" />
+        <LINE id="L460" path="C358,C398" type="BOTTOM_OF_SIDING" />
+        <LINE id="L461" path="C364,C361" type="TOP_OF_SIDING" />
+        <LINE id="L462" path="C399,C363" type="BOTTOM_OF_SIDING" />
+        <LINE id="L463" path="C395,C396" type="BOTTOM_OF_MASONRY" />
+        <LINE id="L464" path="C396,C397" type="BOTTOM_OF_MASONRY" />
+        <LINE id="L465" path="C398,C399" type="BOTTOM_OF_SIDING" />
+        <LINE id="L466" path="C400,C401" type="TOP_OF_SIDING" />
+        <LINE id="L467" path="C401,C402" type="TOP_OF_SIDING" />
+        <LINE id="L468" path="C402,C404" type="OUTSIDE_CORNER_SIDING" />
+        <LINE id="L469" path="C397,C403" type="OUTSIDE_CORNER_MASONRY" />
+        <LINE id="L470" path="C403,C404" type="BOTTOM_OF_SIDING" />
+        <LINE id="L471" path="C363,C400" type="PARAPET" />
+        <LINE id="L472" path="C403,C400" type="OUTSIDE_CORNER_SIDING" />
+        <LINE id="L473" path="C406,C405" type="INSIDE_CORNER_SIDING" />
+        <LINE id="L474" path="C405,C407" type="TOP_OF_SIDING" />
+        <LINE id="L475" path="C407,C406" type="BOTTOM_OF_SIDING" />
+        <LINE id="L476" path="C408,C374" type="TOP_OF_SIDING" />
+        <LINE id="L477" path="C375,C410" type="BOTTOM_OF_SIDING" />
+        <LINE id="L478" path="C409,C408" type="BOTTOM_OF_SIDING" />
+        <LINE id="L479" path="C410,C409" type="INSIDE_CORNER_SIDING" />
+        <LINE id="L480" path="C412,C411" type="BOTTOM_OF_SIDING" />
+        <LINE id="L481" path="C411,C414" type="TOP_OF_SIDING" />
+        <LINE id="L482" path="C413,C412" type="BOTTOM_OF_SIDING" />
+        <LINE id="L483" path="C414,C413" type="TOP_OF_SIDING" />
+        <LINE id="L484" path="C362,C359" type="TOP_OF_SIDING" />
+        <LINE id="L485" path="C360,C365" type="BOTTOM_OF_SIDING" />
+        <LINE id="L486" path="C402,C409" type="TOP_OF_SIDING" />
+        <LINE id="L487" path="C410,C416" type="TOP_OF_SIDING" />
+        <LINE id="L488" path="C417,C415" type="BOTTOM_OF_MASONRY" />
+        <LINE id="L489" path="C417,C418" type="INSIDE_CORNER_MASONRY" />
+        <LINE id="L490" path="C418,C416" type="INSIDE_CORNER_SIDING" />
+        <LINE id="L491" path="C416,C373" type="TOP_OF_SIDING" />
+        <LINE id="L492" path="C419,C417" type="BOTTOM_OF_MASONRY" />
+        <LINE id="L493" path="C373,C420" type="OUTSIDE_CORNER_SIDING" />
+        <LINE id="L494" path="C420,C419" type="OUTSIDE_CORNER_MASONRY" />
+        <LINE id="L495" path="C418,C420" type="BOTTOM_OF_SIDING" />
+        <LINE id="L496" path="C422,C421" type="BOTTOM_OF_MASONRY" />
+        <LINE id="L497" path="C424,C423" type="TOP_OF_SIDING" />
+        <LINE id="L498" path="C425,C422" type="INSIDE_CORNER_MASONRY" />
+        <LINE id="L499" path="C423,C425" type="INSIDE_CORNER_SIDING" />
+        <LINE id="L500" path="C421,C426" type="OUTSIDE_CORNER_MASONRY" />
+        <LINE id="L501" path="C426,C424" type="OUTSIDE_CORNER_SIDING" />
+        <LINE id="L502" path="C426,C425" type="BOTTOM_OF_SIDING" />
+        <LINE id="L503" path="C370,C345" type="TOP_OF_SIDING" />
+        <LINE id="L504" path="C346,C386" type="TOP_OF_SIDING" />
+        <LINE id="L505" path="C385,C424" type="BOTTOM_OF_SIDING" />
+        <LINE id="L506" path="C421,C419" type="BOTTOM_OF_MASONRY" />
+        <LINE id="L507" path="C370,C373" type="INSIDE_CORNER_SIDING" />
+        <LINE id="L508" path="C426,C420" type="BOTTOM_OF_SIDING" />
+        <LINE id="L509" path="C383,C422" type="BOTTOM_OF_MASONRY" />
+        <LINE id="L510" path="C423,C384" type="TOP_OF_SIDING" />
+        <LINE id="L511" path="C425,C392" type="BOTTOM_OF_SIDING" />
+        <LINE id="L512" path="C428,C427" type="BOTTOM_OF_SIDING" />
+        <LINE id="L513" path="C429,C428" type="INSIDE_CORNER_SIDING" />
+        <LINE id="L514" path="C430,C429" type="TOP_OF_SIDING" />
+        <LINE id="L515" path="C431,C432" type="BOTTOM_OF_SIDING" />
+        <LINE id="L516" path="C434,C431" type="INSIDE_CORNER_SIDING" />
+        <LINE id="L517" path="C432,C433" type="OUTSIDE_CORNER_SIDING" />
+        <LINE id="L518" path="C433,C434" type="TOP_OF_SIDING" />
+        <LINE id="L519" path="C428,C431" type="BOTTOM_OF_SIDING" />
+        <LINE id="L520" path="C434,C429" type="TOP_OF_SIDING" />
+        <LINE id="L521" path="C435,C356" type="TOP_OF_SIDING" />
+        <LINE id="L522" path="C357,C405" type="BOTTOM_OF_SIDING" />
+        <LINE id="L523" path="C381,C393" type="TOP_OF_SIDING" />
+        <LINE id="L524" path="C437,C382" type="BOTTOM_OF_MASONRY" />
+        <LINE id="L525" path="C389,C435" type="TOP_OF_SIDING" />
+        <LINE id="L526" path="C436,C390" type="BOTTOM_OF_SIDING" />
+        <LINE id="L527" path="C394,C436" type="BOTTOM_OF_SIDING" />
+        <LINE id="L528" path="C406,C433" type="TOP_OF_SIDING" />
+        <LINE id="L529" path="C432,C438" type="PARAPET" />
+        <LINE id="L530" path="C438,C437" type="PARAPET" />
+        <LINE id="L531" path="C438,C391" type="BOTTOM_OF_SIDING" />
+        <LINE id="L532" path="C397,C441" type="BOTTOM_OF_MASONRY" />
+        <LINE id="L533" path="C442,C400" type="TOP_OF_SIDING" />
+        <LINE id="L534" path="C430,C445" type="PARAPET" />
+        <LINE id="L535" path="C440,C439" type="BOTTOM_OF_MASONRY" />
+        <LINE id="L536" path="C441,C440" type="BOTTOM_OF_MASONRY" />
+        <LINE id="L537" path="C443,C442" type="TOP_OF_SIDING" />
+        <LINE id="L538" path="C444,C443" type="TOP_OF_SIDING" />
+        <LINE id="L539" path="C445,C444" type="TOP_OF_SIDING" />
+        <LINE id="L540" path="C446,C427" type="PARAPET" />
+        <LINE id="L541" path="C439,C446" type="PARAPET" />
+        <LINE id="L542" path="C446,C403" type="BOTTOM_OF_SIDING" />
+        <LINE id="L543" path="C427,C430" type="OUTSIDE_CORNER_SIDING" />
+        <LINE id="L544" path="C447,C395" type="OUTSIDE_CORNER_SIDING_TO_MASONRY" />
+        <LINE id="L545" path="C404,C447" type="OUTSIDE_CORNER_MASONRY" />
+        <LINE id="L546" path="C395,C404" type="BOTTOM_OF_SIDING" />
+        <LINE id="L547" path="C447,C418" type="BOTTOM_OF_SIDING" />
+        <LINE id="L548" path="C415,C447" type="OUTSIDE_CORNER_MASONRY" />
+      </LINES>
+      <POINTS>
+        <POINT id="C60" data="0.926321639,116.454546891,25.792237942" />
+        <POINT id="C61" data="0.852239846,116.454546891,25.742850080" />
+        <POINT id="C62" data="0.852239846,116.454546891,28.872809905" />
+        <POINT id="C63" data="4.202815768,116.454546891,28.872809905" />
+        <POINT id="C64" data="4.202815768,116.454546891,23.607908523" />
+        <POINT id="C65" data="4.202815768,114.553119094,23.607908523" />
+        <POINT id="C66" data="4.202815768,114.553119094,28.872809905" />
+        <POINT id="C67" data="0.852239846,114.553119094,25.742850080" />
+        <POINT id="C68" data="0.926321639,114.553119094,25.792237942" />
+        <POINT id="C69" data="0.852239846,114.553119094,28.872809905" />
+        <POINT id="C70" data="12.489209919,138.206182799,4.029500802" />
+        <POINT id="C71" data="-11.072013430,138.206182800,1.546878158" />
+        <POINT id="C72" data="-11.072013430,138.206182800,17.793347896" />
+        <POINT id="C73" data="1.585810737,138.206182800,8.048615151" />
+        <POINT id="C74" data="10.174369158,138.206182800,8.048615151" />
+        <POINT id="C75" data="12.489104239,80.999788565,33.025332165" />
+        <POINT id="C76" data="12.489104239,80.499934344,8.048615151" />
+        <POINT id="C77" data="12.489104239,73.864470715,8.048615151" />
+        <POINT id="C78" data="12.489104239,73.864470715,5.749010822" />
+        <POINT id="C79" data="12.489104239,87.812810519,5.749010822" />
+        <POINT id="C80" data="12.489104239,87.812810519,16.903618216" />
+        <POINT id="C81" data="12.489209919,95.987671024,16.901740415" />
+        <POINT id="C82" data="12.489209919,95.987671024,6.110998090" />
+        <POINT id="C83" data="12.489209919,127.502313416,25.089538140" />
+        <POINT id="C84" data="9.404713381,95.987671024,16.903175237" />
+        <POINT id="C85" data="9.404713381,87.812810519,16.903175237" />
+        <POINT id="C86" data="-3.069304324,73.864470715,34.242523567" />
+        <POINT id="C87" data="-15.477022370,73.864470715,16.863765077" />
+        <POINT id="C88" data="-11.163593448,73.864470715,16.863765077" />
+        <POINT id="C89" data="-11.163593448,73.864470715,5.749010822" />
+        <POINT id="C90" data="5.950109191,73.864470715,8.048615151" />
+        <POINT id="C91" data="5.950109191,73.864470715,18.411296610" />
+        <POINT id="C92" data="-15.477022370,102.207478603,18.537696756" />
+        <POINT id="C93" data="-15.477022370,102.330246486,18.537696756" />
+        <POINT id="C94" data="-15.477022370,102.330246486,8.048615151" />
+        <POINT id="C95" data="-11.072013430,113.146933412,17.793347896" />
+        <POINT id="C96" data="0.927076067,114.016730498,25.790878563" />
+        <POINT id="C97" data="1.756667674,114.016730498,25.233351335" />
+        <POINT id="C98" data="-3.069304324,102.207478603,34.242523567" />
+        <POINT id="C99" data="9.404713381,102.207478603,20.140735455" />
+        <POINT id="C100" data="1.762221134,102.207478603,25.234971613" />
+        <POINT id="C101" data="-5.381118903,102.207478603,20.472744921" />
+        <POINT id="C102" data="9.404713381,87.812810519,20.140735455" />
+        <POINT id="C103" data="9.404713381,87.812810519,25.920442372" />
+        <POINT id="C104" data="12.489104239,87.812810519,18.087117837" />
+        <POINT id="C105" data="7.350768205,138.206182800,18.152578910" />
+        <POINT id="C106" data="4.278876252,138.206182800,18.152578910" />
+        <POINT id="C107" data="0.925141275,138.206182800,25.791539711" />
+        <POINT id="C108" data="-7.746313896,113.146933412,20.009790040" />
+        <POINT id="C109" data="-7.709762418,114.016730498,20.030875878" />
+        <POINT id="C110" data="-5.381118903,114.016730498,20.472744921" />
+        <POINT id="C111" data="12.489104239,80.499934344,18.843093001" />
+        <POINT id="C112" data="12.489104239,73.864470715,18.412266598" />
+        <POINT id="C113" data="12.489104239,87.416283477,18.080382903" />
+        <POINT id="C114" data="12.489104239,87.416283477,16.903618216" />
+        <POINT id="C115" data="14.250142710,87.416283477,16.905301950" />
+        <POINT id="C116" data="12.489104239,74.437352543,18.847582957" />
+        <POINT id="C117" data="-11.072013430,138.206182800,0.000000000" />
+        <POINT id="C118" data="-11.072013430,102.330246486,0.000000000" />
+        <POINT id="C119" data="-15.477022370,102.330246486,0.000000000" />
+        <POINT id="C120" data="-15.477022370,86.304922248,0.000000000" />
+        <POINT id="C121" data="-11.163593448,86.304922248,0.000000000" />
+        <POINT id="C122" data="12.489209919,95.987671024,7.537591966" />
+        <POINT id="C123" data="9.404713381,95.987671024,7.537591966" />
+        <POINT id="C124" data="9.404713381,87.812810519,7.537591966" />
+        <POINT id="C125" data="12.489104239,87.812810519,7.537591966" />
+        <POINT id="C126" data="12.489209919,101.168848616,6.110998090" />
+        <POINT id="C127" data="12.489209919,116.750183984,4.029500802" />
+        <POINT id="C128" data="-3.773381024,138.206182800,1.546878158" />
+        <POINT id="C138" data="-15.477022370,86.304922248,16.863765077" />
+        <POINT id="C139" data="-11.163593448,86.304922248,16.863765077" />
+        <POINT id="C149" data="3.567258726,140.232286576,8.048615151" />
+        <POINT id="C150" data="8.085317620,140.232286576,8.048615151" />
+        <POINT id="C153" data="5.950109191,72.505448857,8.048615151" />
+        <POINT id="C154" data="14.496439161,72.505448857,8.048615151" />
+        <POINT id="C155" data="14.496439161,80.499934344,8.048615151" />
+        <POINT id="C158" data="-11.072013430,102.330246486,8.048615151" />
+        <POINT id="C159" data="-11.072013430,113.146933412,8.048615151" />
+        <POINT id="C160" data="-25.368412625,113.146933412,8.048615151" />
+        <POINT id="C161" data="-25.368412625,102.330246486,8.048615151" />
+        <POINT id="C168" data="12.489209919,138.206182799,18.090485303" />
+        <POINT id="C169" data="12.489209919,134.975358444,18.052420738" />
+        <POINT id="C172" data="-15.477022370,73.864470715,25.970711536" />
+        <POINT id="C173" data="-15.477022370,102.207478603,25.970711536" />
+        <POINT id="C176" data="9.404713381,102.207478603,25.927270438" />
+        <POINT id="C177" data="9.404713381,87.812810519,25.927270438" />
+        <POINT id="C180" data="1.585810737,138.206182800,16.813109814" />
+        <POINT id="C183" data="10.174369158,138.206182800,16.816625075" />
+        <POINT id="C186" data="-25.368412625,102.330246486,16.641846958" />
+        <POINT id="C187" data="-25.368412625,113.146933412,16.641846958" />
+        <POINT id="C190" data="12.489104239,73.864470715,25.887397568" />
+        <POINT id="C191" data="9.447973277,73.864470715,25.887397568" />
+        <POINT id="C194" data="14.496439161,80.499934344,17.503715617" />
+        <POINT id="C196" data="12.489209919,120.029268388,18.090485303" />
+        <POINT id="C197" data="12.489209919,95.987671024,18.087117837" />
+        <POINT id="C200" data="3.567258726,140.232286576,16.815817886" />
+        <POINT id="C201" data="8.085317620,140.232286576,16.816776250" />
+        <POINT id="C204" data="9.406170322,87.812810519,26.209198512" />
+        <POINT id="C205" data="12.489104239,87.812810519,26.209198512" />
+        <POINT id="C212" data="14.496439161,72.505448857,17.503715617" />
+        <POINT id="C215" data="14.493480942,72.505448857,17.505687763" />
+        <POINT id="C216" data="5.950109191,72.505448857,17.505687763" />
+        <POINT id="C219" data="3.004126466,73.864470715,9.864360144" />
+        <POINT id="C220" data="0.504126466,73.864470715,9.864360144" />
+        <POINT id="C221" data="0.504126466,73.864470715,16.364360144" />
+        <POINT id="C222" data="3.004126466,73.864470715,16.364360144" />
+        <POINT id="C223" data="6.680930877,72.505448857,9.773323366" />
+        <POINT id="C224" data="13.680930877,72.505448857,9.773323366" />
+        <POINT id="C225" data="13.680930877,72.505448857,16.273323366" />
+        <POINT id="C226" data="6.680930877,72.505448857,16.273323366" />
+        <POINT id="C227" data="14.496439161,80.194248582,9.773323366" />
+        <POINT id="C228" data="14.496439161,74.202025645,9.773323366" />
+        <POINT id="C229" data="14.496439161,74.202025645,16.273323366" />
+        <POINT id="C230" data="14.496439161,80.194248582,16.273323366" />
+        <POINT id="C231" data="12.489104239,77.888211197,19.118464582" />
+        <POINT id="C232" data="12.489104239,83.388211197,19.118464582" />
+        <POINT id="C233" data="12.489104239,83.388211197,24.118464582" />
+        <POINT id="C234" data="12.489104239,77.888211197,24.118464582" />
+        <POINT id="C235" data="9.404713381,95.748660172,20.930892703" />
+        <POINT id="C236" data="9.404713381,98.248660172,20.930892703" />
+        <POINT id="C237" data="9.404713381,98.248660172,24.930892703" />
+        <POINT id="C238" data="9.404713381,95.748660172,24.930892703" />
+        <POINT id="C239" data="-13.984892667,102.207478603,19.995015559" />
+        <POINT id="C240" data="-10.984892667,102.207478603,19.995015559" />
+        <POINT id="C241" data="-10.984892667,102.207478603,24.995015559" />
+        <POINT id="C242" data="-13.984892667,102.207478603,24.995015559" />
+        <POINT id="C243" data="12.489209919,123.721519136,9.199547341" />
+        <POINT id="C244" data="12.489209919,129.221519136,9.199547341" />
+        <POINT id="C245" data="12.489209919,129.221519136,15.199547341" />
+        <POINT id="C246" data="12.489209919,123.721519136,15.199547341" />
+        <POINT id="C247" data="12.489209919,104.175642797,9.199547341" />
+        <POINT id="C248" data="12.489209919,110.677637120,9.199547341" />
+        <POINT id="C249" data="12.489209919,110.677637120,15.199547341" />
+        <POINT id="C250" data="12.489209919,104.175642797,15.199547341" />
+        <POINT id="C251" data="12.489209919,97.422415774,9.614129279" />
+        <POINT id="C252" data="12.489209919,100.422415774,9.614129279" />
+        <POINT id="C253" data="12.489209919,100.422415774,15.114129279" />
+        <POINT id="C254" data="12.489209919,97.422415774,15.114129279" />
+        <POINT id="C255" data="-7.160602438,138.206182800,10.121010506" />
+        <POINT id="C256" data="-4.660602438,138.206182800,10.121010506" />
+        <POINT id="C257" data="-4.660602438,138.206182800,16.121010506" />
+        <POINT id="C258" data="-7.160602438,138.206182800,16.121010506" />
+        <POINT id="C259" data="4.064527569,140.232286576,10.957395528" />
+        <POINT id="C260" data="7.564527569,140.232286576,10.957395528" />
+        <POINT id="C261" data="7.564527569,140.232286576,15.957395528" />
+        <POINT id="C262" data="4.064527569,140.232286576,15.957395528" />
+        <POINT id="C263" data="3.285236610,139.943908543,10.930012689" />
+        <POINT id="C264" data="1.886868313,138.514025294,10.930012689" />
+        <POINT id="C265" data="1.886868313,138.514025294,15.930012689" />
+        <POINT id="C266" data="3.285236610,139.943908543,15.930012689" />
+        <POINT id="C267" data="8.341320438,139.983997691,11.007599123" />
+        <POINT id="C268" data="9.776998664,138.591579639,11.007599123" />
+        <POINT id="C269" data="9.776998664,138.591579639,16.007599123" />
+        <POINT id="C270" data="8.341320438,139.983997691,16.007599123" />
+        <POINT id="C271" data="-11.072013430,129.825797834,11.465670422" />
+        <POINT id="C272" data="-11.072013430,127.325797834,11.465670422" />
+        <POINT id="C273" data="-11.072013430,127.325797834,15.965670422" />
+        <POINT id="C274" data="-11.072013430,129.825797834,15.965670422" />
+        <POINT id="C275" data="-11.072013430,124.486602571,11.465670422" />
+        <POINT id="C276" data="-11.072013430,121.986602571,11.465670422" />
+        <POINT id="C277" data="-11.072013430,121.986602571,15.965670422" />
+        <POINT id="C278" data="-11.072013430,124.486602571,15.965670422" />
+        <POINT id="C279" data="-11.072013430,135.382234137,0.000000000" />
+        <POINT id="C280" data="-11.072013430,127.382234137,0.000000000" />
+        <POINT id="C281" data="-11.072013430,127.382234137,7.524866315" />
+        <POINT id="C282" data="-11.072013430,135.382234137,7.524866315" />
+        <POINT id="C283" data="-11.072013430,125.988743169,0.000000000" />
+        <POINT id="C284" data="-11.072013430,117.988743169,0.000000000" />
+        <POINT id="C285" data="-11.072013430,117.988743169,7.518770788" />
+        <POINT id="C286" data="-11.072013430,125.988743169,7.518770788" />
+        <POINT id="C287" data="-15.477022370,87.571511824,10.561710440" />
+        <POINT id="C288" data="-15.477022370,90.571511824,10.561710440" />
+        <POINT id="C289" data="-15.477022370,90.571511824,16.061710440" />
+        <POINT id="C290" data="-15.477022370,87.571511824,16.061710440" />
+        <POINT id="C291" data="-14.556726591,86.304922248,10.561710440" />
+        <POINT id="C292" data="-11.556726591,86.304922248,10.561710440" />
+        <POINT id="C293" data="-11.556726591,86.304922248,16.061710440" />
+        <POINT id="C294" data="-14.556726591,86.304922248,16.061710440" />
+        <POINT id="C295" data="-15.477022370,78.563578931,19.792957683" />
+        <POINT id="C296" data="-15.477022370,81.563578931,19.792957683" />
+        <POINT id="C297" data="-15.477022370,81.563578931,24.792957683" />
+        <POINT id="C298" data="-15.477022370,78.563578931,24.792957683" />
+        <POINT id="C299" data="-15.477022370,97.892452677,19.792957683" />
+        <POINT id="C300" data="-15.477022370,100.892452677,19.792957683" />
+        <POINT id="C301" data="-15.477022370,100.892452677,24.792957683" />
+        <POINT id="C302" data="-15.477022370,97.892452677,24.792957683" />
+        <POINT id="C303" data="-11.163593448,79.202209783,9.094443925" />
+        <POINT id="C304" data="-11.163593448,85.202209783,9.094443925" />
+        <POINT id="C305" data="-11.163593448,85.202209783,16.094443925" />
+        <POINT id="C306" data="-11.163593448,79.202209783,16.094443925" />
+        <POINT id="C307" data="-24.439883172,113.146933412,8.803419709" />
+        <POINT id="C308" data="-12.939883172,113.146933412,8.803419709" />
+        <POINT id="C309" data="-12.939883172,113.146933412,15.803419709" />
+        <POINT id="C310" data="-24.439883172,113.146933412,15.803419709" />
+        <POINT id="C311" data="-24.439883172,102.330246486,8.803419709" />
+        <POINT id="C312" data="-15.931351049,102.330246486,8.803419709" />
+        <POINT id="C313" data="-15.931351049,102.330246486,15.803419709" />
+        <POINT id="C314" data="-24.439883172,102.330246486,15.803419709" />
+        <POINT id="C315" data="-25.368412625,102.762356538,8.803419709" />
+        <POINT id="C316" data="-25.368412625,112.569784681,8.803419709" />
+        <POINT id="C317" data="-25.368412625,112.569784681,15.803419709" />
+        <POINT id="C318" data="-25.368412625,102.762356538,15.803419709" />
+        <POINT id="C319" data="-15.477022370,92.942878218,5.592864731" />
+        <POINT id="C320" data="-15.477022370,95.942878218,5.592864731" />
+        <POINT id="C321" data="-15.477022370,95.942878218,12.592864731" />
+        <POINT id="C322" data="-15.477022370,92.942878218,12.592864731" />
+        <POINT id="C323" data="9.404713381,92.318278201,8.395381865" />
+        <POINT id="C324" data="9.404713381,95.318278201,8.395381865" />
+        <POINT id="C325" data="9.404713381,95.318278201,15.395381865" />
+        <POINT id="C326" data="9.404713381,92.318278201,15.395381865" />
+        <POINT id="C327" data="9.404713381,88.385865644,9.843659775" />
+        <POINT id="C328" data="9.404713381,91.385865644,9.843659775" />
+        <POINT id="C329" data="9.404713381,91.385865644,15.343659775" />
+        <POINT id="C330" data="9.404713381,88.385865644,15.343659775" />
+        <POINT id="C335" data="0.926321639,116.454546891,25.792237942" />
+        <POINT id="C336" data="0.852239846,116.454546891,25.742850080" />
+        <POINT id="C337" data="0.852239846,116.454546891,28.872809905" />
+        <POINT id="C338" data="4.202815768,116.454546891,28.872809905" />
+        <POINT id="C339" data="4.202815768,116.454546891,23.607908523" />
+        <POINT id="C340" data="4.202815768,114.553119094,23.607908523" />
+        <POINT id="C341" data="4.202815768,114.553119094,28.872809905" />
+        <POINT id="C342" data="0.852239846,114.553119094,25.742850080" />
+        <POINT id="C343" data="0.926321639,114.553119094,25.792237942" />
+        <POINT id="C344" data="0.852239846,114.553119094,28.872809905" />
+        <POINT id="C345" data="-15.477022370,102.207478603,18.537696756" />
+        <POINT id="C346" data="-15.477022370,102.207478603,25.970711536" />
+        <POINT id="C347" data="-3.069304324,102.207478603,34.242523567" />
+        <POINT id="C348" data="9.404713381,102.207478603,25.927270438" />
+        <POINT id="C349" data="9.404713381,102.207478603,20.140735455" />
+        <POINT id="C350" data="1.762221134,102.207478603,25.234971613" />
+        <POINT id="C351" data="-5.381118903,102.207478603,20.472744921" />
+        <POINT id="C352" data="9.404713381,87.812810519,25.927270438" />
+        <POINT id="C353" data="9.404713381,87.812810519,20.140735455" />
+        <POINT id="C354" data="9.404713381,87.812810519,25.920442372" />
+        <POINT id="C355" data="9.406170322,87.812810519,26.209198512" />
+        <POINT id="C356" data="12.489104239,87.812810519,26.209198512" />
+        <POINT id="C357" data="12.489104239,87.812810519,18.087117837" />
+        <POINT id="C358" data="1.585810737,138.206182800,16.813109814" />
+        <POINT id="C359" data="3.567258726,140.232286576,16.815817886" />
+        <POINT id="C360" data="3.567258726,140.232286576,8.048615151" />
+        <POINT id="C361" data="1.585810737,138.206182800,8.048615151" />
+        <POINT id="C362" data="8.085317620,140.232286576,16.816776250" />
+        <POINT id="C363" data="10.174369158,138.206182800,16.816625075" />
+        <POINT id="C364" data="10.174369158,138.206182800,8.048615151" />
+        <POINT id="C365" data="8.085317620,140.232286576,8.048615151" />
+        <POINT id="C366" data="5.950109191,72.505448857,17.505687763" />
+        <POINT id="C367" data="5.950109191,73.864470715,18.411296610" />
+        <POINT id="C368" data="5.950109191,73.864470715,8.048615151" />
+        <POINT id="C369" data="5.950109191,72.505448857,8.048615151" />
+        <POINT id="C370" data="-15.477022370,102.330246486,18.537696756" />
+        <POINT id="C371" data="-25.368412625,102.330246486,16.641846958" />
+        <POINT id="C372" data="-25.368412625,102.330246486,8.048615151" />
+        <POINT id="C373" data="-15.477022370,102.330246486,8.048615151" />
+        <POINT id="C374" data="-25.368412625,113.146933412,16.641846958" />
+        <POINT id="C375" data="-25.368412625,113.146933412,8.048615151" />
+        <POINT id="C376" data="14.496439161,80.499934344,17.503715617" />
+        <POINT id="C377" data="14.496439161,72.505448857,17.503715617" />
+        <POINT id="C378" data="14.496439161,72.505448857,8.048615151" />
+        <POINT id="C379" data="14.496439161,80.499934344,8.048615151" />
+        <POINT id="C380" data="14.493480942,72.505448857,17.505687763" />
+        <POINT id="C381" data="12.489104239,73.864470715,8.048615151" />
+        <POINT id="C382" data="12.489104239,73.864470715,5.749010822" />
+        <POINT id="C383" data="-11.163593448,73.864470715,5.749010822" />
+        <POINT id="C384" data="-11.163593448,73.864470715,16.863765077" />
+        <POINT id="C385" data="-15.477022370,73.864470715,16.863765077" />
+        <POINT id="C386" data="-15.477022370,73.864470715,25.970711536" />
+        <POINT id="C387" data="-3.069304324,73.864470715,34.242523567" />
+        <POINT id="C388" data="9.447973277,73.864470715,25.887397568" />
+        <POINT id="C389" data="12.489104239,73.864470715,25.887397568" />
+        <POINT id="C390" data="12.489104239,73.864470715,18.412266598" />
+        <POINT id="C391" data="12.489104239,73.864470715,6.771057190" />
+        <POINT id="C392" data="-11.163593448,73.864470715,6.771057190" />
+        <POINT id="C393" data="12.489104239,80.499934344,8.048615151" />
+        <POINT id="C394" data="12.489104239,80.499934344,18.843093001" />
+        <POINT id="C395" data="-11.072013430,138.206182800,1.546878158" />
+        <POINT id="C396" data="-3.773381024,138.206182800,1.546878158" />
+        <POINT id="C397" data="12.489209919,138.206182799,4.029500802" />
+        <POINT id="C398" data="4.278876252,138.206182800,18.152578910" />
+        <POINT id="C399" data="7.350768205,138.206182800,18.152578910" />
+        <POINT id="C400" data="12.489209919,138.206182799,18.090485303" />
+        <POINT id="C401" data="0.925141275,138.206182800,25.791539711" />
+        <POINT id="C402" data="-11.072013430,138.206182800,17.793347896" />
+        <POINT id="C403" data="12.489209919,138.206182800,6.771057190" />
+        <POINT id="C404" data="-11.072013430,138.206182800,6.771057190" />
+        <POINT id="C405" data="12.489104239,87.416283477,18.080382903" />
+        <POINT id="C406" data="12.489104239,87.416283477,16.903618216" />
+        <POINT id="C407" data="14.250142710,87.416283477,16.905301950" />
+        <POINT id="C408" data="-7.746313896,113.146933412,20.009790040" />
+        <POINT id="C409" data="-11.072013430,113.146933412,17.793347896" />
+        <POINT id="C410" data="-11.072013430,113.146933412,8.048615151" />
+        <POINT id="C411" data="-7.709762418,114.016730498,20.030875878" />
+        <POINT id="C412" data="-5.381118903,114.016730498,20.472744921" />
+        <POINT id="C413" data="1.756667674,114.016730498,25.233351335" />
+        <POINT id="C414" data="0.927076067,114.016730498,25.790878563" />
+        <POINT id="C415" data="-11.072013430,138.206182800,0.000000000" />
+        <POINT id="C416" data="-11.072013430,102.330246486,8.048615151" />
+        <POINT id="C417" data="-11.072013430,102.330246486,0.000000000" />
+        <POINT id="C418" data="-11.072013430,102.330246486,0.357685761" />
+        <POINT id="C419" data="-15.477022370,102.330246486,0.000000000" />
+        <POINT id="C420" data="-15.477022370,102.330246486,0.357685761" />
+        <POINT id="C421" data="-15.477022370,86.304922248,0.000000000" />
+        <POINT id="C422" data="-11.163593448,86.304922248,0.000000000" />
+        <POINT id="C423" data="-11.163593448,86.304922248,16.863765077" />
+        <POINT id="C424" data="-15.477022370,86.304922248,16.863765077" />
+        <POINT id="C425" data="-11.163593448,86.304922248,0.357685761" />
+        <POINT id="C426" data="-15.477022370,86.304922248,0.357685761" />
+        <POINT id="C427" data="12.489209919,95.987671024,7.537591966" />
+        <POINT id="C428" data="9.404713381,95.987671024,7.537591966" />
+        <POINT id="C429" data="9.404713381,95.987671024,16.903175237" />
+        <POINT id="C430" data="12.489209919,95.987671024,16.901740415" />
+        <POINT id="C431" data="9.404713381,87.812810519,7.537591966" />
+        <POINT id="C432" data="12.489104239,87.812810519,7.537591966" />
+        <POINT id="C433" data="12.489104239,87.812810519,16.903618216" />
+        <POINT id="C434" data="9.404713381,87.812810519,16.903175237" />
+        <POINT id="C435" data="12.489104239,80.999788565,33.025332165" />
+        <POINT id="C436" data="12.489104239,74.437352543,18.847582957" />
+        <POINT id="C437" data="12.489104239,87.812810519,5.749010822" />
+        <POINT id="C438" data="12.489104239,87.812810519,6.771057190" />
+        <POINT id="C439" data="12.489209919,95.987671024,6.110998090" />
+        <POINT id="C440" data="12.489209919,101.168848616,6.110998090" />
+        <POINT id="C441" data="12.489209919,116.750183984,4.029500802" />
+        <POINT id="C442" data="12.489209919,134.975358444,18.052420738" />
+        <POINT id="C443" data="12.489209919,127.502313416,25.089538140" />
+        <POINT id="C444" data="12.489209919,120.029268388,18.090485303" />
+        <POINT id="C445" data="12.489209919,95.987671024,18.087117837" />
+        <POINT id="C446" data="12.489209919,95.987671024,6.771057190" />
+        <POINT id="C447" data="-11.072013430,138.206182800,0.357685761" />
+      </POINTS>
+    </ROOF>
+  </STRUCTURES>
+  <MATERIALS>
+    <MATERIAL id="1" type="" label="None" />
+    <MATERIAL id="2" type="" label="Siding" />
+    <MATERIAL id="3" type="" label="Masonry" />
+  </MATERIALS>
+  <OVERALL_SUMMARY>
+    <ATTRIBUTE name="TotalWallArea" value="4178" />
+    <ATTRIBUTE name="TotalWallAreaLessPenetrations" value="3369" />
+    <ATTRIBUTE name="TotalSidingArea" value="3874" />
+    <ATTRIBUTE name="TotalSidingAreaLessPenetrations" value="3070" />
+    <ATTRIBUTE name="TotalMasonryArea" value="305" />
+    <ATTRIBUTE name="TotalMasonryAreaLessPenetrations" value="299" />
+    <ATTRIBUTE name="TotalWallFacets" value="31" />
+    <ATTRIBUTE name="TotalWindowsAndDoors" value="28" />
+    <ATTRIBUTE name="TotalWindowsAndDoorsArea" value="810" />
+    <ATTRIBUTE name="TotalWindowsAndDoorsPerimeter" value="587.6" />
+    <ATTRIBUTE name="Fascia" value="342.2" />
+    <ATTRIBUTE name="TotalInsideCornersLength" value="92.1" />
+    <ATTRIBUTE name="TotalOutsideCornersLength" value="187.8" />
+    <ATTRIBUTE name="TotalObtuseInsideCornersLength" value="17.6" />
+    <ATTRIBUTE name="TotalObtuseOutsideCornersLength" value="17.6" />
+    <ATTRIBUTE name="TotalTopSidingWallsLength" value="380.9" />
+    <ATTRIBUTE name="TotalBottomSidingWallsLength" value="365.3" />
+    <ATTRIBUTE name="TotalTopMasonryWallsLength" value="10.6" />
+    <ATTRIBUTE name="TotalBottomMasonryWallsLength" value="189.9" />
+    <ATTRIBUTE name="TotalInsideSidingCornersLength" value="91.4" />
+    <ATTRIBUTE name="TotalOutsideSidingCornersLength" value="160.3" />
+    <ATTRIBUTE name="TotalObtuseInsideSidingCornersLength" value="17.6" />
+    <ATTRIBUTE name="TotalObtuseOutsideSidingCornersLength" value="17.6" />
+    <ATTRIBUTE name="TotalInsideMasonryCornersLength" value="0.8" />
+    <ATTRIBUTE name="TotalOutsideMasonryCornersLength" value="29.1" />
+    <ATTRIBUTE name="TotalObtuseInsideMasonryCornersLength" value="0" />
+    <ATTRIBUTE name="TotalObtuseOutsideMasonryCornersLength" value="0" />
+    <ATTRIBUTE name="TotalInsideSidingToMasonryCornersLength" value="0" />
+    <ATTRIBUTE name="TotalOutsideSidingToMasonryCornersLength" value="1.2" />
+    <ATTRIBUTE name="TotalObtuseInsideSidingToMasonryCornersLength" value="0" />
+    <ATTRIBUTE name="TotalObtuseOutsideSidingToMasonryCornersLength" value="0" />
+  </OVERALL_SUMMARY>
+</EAGLEVIEW_EXPORT>
